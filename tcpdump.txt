@@ -1,0 +1,1 @@
+sudo tcpdump -s0 -A -i lo0 port 3000
